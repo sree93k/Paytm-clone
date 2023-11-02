@@ -52,7 +52,7 @@
 .navs {
     cursor: pointer;
     padding: 10px;
-    ;
+   
 }
 
 .navs:hover {
@@ -68,6 +68,7 @@
     justify-content: space-between;
     border-radius: 25px;
     background-color: rgb(5, 177, 245);
+   
 }
 .nav3:hover{
     cursor: pointer;
@@ -82,6 +83,7 @@
 
 #loguser {
     padding-left: 20px;
+    
 }
 
 .header2 {
@@ -963,7 +965,7 @@ margin-left: 133px;
 
 .container-6{
     width: 100%;
-    height: 2600px;
+    height: 3200px;
 
 }
 .c6-header{
